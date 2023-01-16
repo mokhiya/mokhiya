@@ -1,6 +1,6 @@
 Hello!
 My name is Mokhiyakhon Uzokova. I am a graduate student of TSUULL, majoring in compuational linguistics (2022-2024).
-My bachelors degree was in same university, yet with a slightly diffirent branch: uzbek philology.
+My bachelors degree was in same university, yet with a slightly different branch: uzbek philology.
 
 I am in love with science, love doing research, learning languageges, travelling, and drawing. Since my student years, I have been doing my best to learn coding so that i can easily use this skill to sharpen my knowldeges in CL. Recenly, i have started learning ML, Data Science and NLP tools. Working on project called creating an uzbek synonymizer. If you are interested in this project, feel free to contact me, will be happy to collaborate!
 
