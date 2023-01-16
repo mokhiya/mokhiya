@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mokhiya
+- 👋 Hi, I’m mokhiya
 - 👀 I’m interested in doing research, drawing and coding.
 - 🌱 I’m currently learning python and SQL.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on building ai-based projects.
 - 📫 How to reach me mohiyaxonuzokova@gmail.com
 
 <!---
