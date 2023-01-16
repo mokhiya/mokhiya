@@ -13,4 +13,4 @@ A little more about me. What I have achived up to these days:
 - holder of an overall 7.0 IELTS certificate;
 - Chief editor in grantgo.uz web-site (since 2021)
 
-I have published up to 10 papers since my bachelor's study yeras. You can find out about them on my researchgate page (have been adding them one-by-one)
+I have published up to 10 papers since my bachelor's study years. You can find out about them on my researchgate page (have been adding them one-by-one)
