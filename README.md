@@ -5,6 +5,7 @@ My bachelors degree was in same university, yet with a slightly different branch
 I am in love with science, love doing research, learning languages, travelling, and drawing. Since my student years, I have been doing my best to learn coding so that i can easily use this skill to sharpen my knowldeges in CL. Recenly, i have started learning ML, Data Science and NLP tools. Working on project called creating an uzbek synonymizer. If you are interested in this project, feel free to contact me at mohiyaxonuzokova@gmail.com, will be happy to collaborate!
 
 A little more about me. What I have achived up to these days:
+- winner of the "Mirzo Ulugbek vorislari" start-up competition (2023);
 - won National Scholarship Program of Slovac Republic (2022);
 - won Presidential scholarship for 2021-2022 study years;
 - won the first private scholarship - Registon (2022);
